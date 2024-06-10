@@ -1,0 +1,33 @@
+main{text-align: center;
+     font-size: large;}
+
+.boton-de-arriba{position: fixed;
+                 top: 50vh;
+                 right: 30px;}
+
+
+.efecto-imagen-index-1 {
+    background: url('../IMG/tatuador.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:75vh;
+}
+.efecto-imagen-index-2 {
+    background: url('../IMG/tatuador2.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:75vh;}
+
+.texto-sobre-imagen-con-efecto {
+                                 padding: 10% 0;}
+
+.texto-imagen-color { writing-mode: vertical-rl;
+        transform: rotate(180deg);
+                                }
+                                
+                                
+                                
+                                
+                                
